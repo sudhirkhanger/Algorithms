@@ -2,7 +2,7 @@ import java.util.*
 
 // TODO: couldn't solve
 fun removeDuplicates(nums: IntArray): Int {
-    var i = 0;
+    var i = 0
     var unique = 1
     while (i < nums.size - 1) {
         if (nums[i] == nums[i + 1]) {
