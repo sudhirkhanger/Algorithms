@@ -3,7 +3,7 @@ import kotlin.math.pow
 
 // would fail for a an array like [0, 0] which should result into [0, 1]
 fun main() {
-    val digits = intArrayOf(0, 0)
+    val digits = intArrayOf(1, 2, 3)
     println("Given Array = ${Arrays.toString(digits)}")
     println("Result Array = ${Arrays.toString(plusOne(digits))}")
 }
@@ -31,7 +31,7 @@ fun intToNum(num: Long, size: Int): IntArray {
         val power = 10.toDouble().pow(i - 1).toLong()
         val arrValue = result / power
         result = result - (arrValue * power)
-        arr.set(size - i, arrValue.toInt())
+        arr[size - i] = arrValue.toInt()
     }
     return arr
 }
