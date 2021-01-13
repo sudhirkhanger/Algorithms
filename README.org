@@ -10,3 +10,6 @@
 |  6 | 10/01/21 | Hackerrank | FizzBuzz                            |      |
 |  7 | 10/01/21 | Hackerrank | GetMaxValue                         |      |
 |  8 | 10/01/21 | Hackerrank | Divisiblity of strings              |      |
+|  9 | 13/01/21 | LeetCode   | 88 Merge Sorted Array               | todo |
+| 10 | 13/01/21 | LeetCode   | 118 Pascal Triangle                 |      |
+|    |          |            |                                     |      |
