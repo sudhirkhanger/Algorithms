@@ -1,47 +1,23 @@
-import java.util.*
-import kotlin.math.pow
-
-// would fail for a an array like [0, 0] which should result into [0, 1]
 fun main() {
-    val digits = intArrayOf(1, 2, 3)
-    println("Given Array = ${Arrays.toString(digits)}")
-    println("Result Array = ${Arrays.toString(plusOne(digits))}")
+    val digits = intArrayOf(8, 9)
+    println("${plusOne(digits).joinToString()}")
 }
 
 fun plusOne(digits: IntArray): IntArray {
-    val num = arrToInt(digits)
-    val sum: Long = num + 1
-    return intToNum(sum, numOfDigits(sum))
-}
-
-fun arrToInt(digits: IntArray): Long {
-    var sum = 0L
-    for (i in digits.size downTo 1) {
-        val power = 10.toDouble().pow(i - 1).toLong()
-        val multiplier = digits[digits.size - i]
-        sum = sum + (multiplier * power)
+    val n = digits.size
+    var index = n
+    while (index > 0) {
+        when {
+            digits[index - 1] == 9 -> {
+                digits[index - 1] = 0
+                index--
+                if (index == 0) return IntArray(n + 1) { if (it == 0) 1 else 0 }
+            }
+            else -> {
+                digits[index - 1]++
+                return digits
+            }
+        }
     }
-    return sum
-}
-
-fun intToNum(num: Long, size: Int): IntArray {
-    var result = num
-    val arr = IntArray(size)
-    for (i in size downTo 1) {
-        val power = 10.toDouble().pow(i - 1).toLong()
-        val arrValue = result / power
-        result = result - (arrValue * power)
-        arr[size - i] = arrValue.toInt()
-    }
-    return arr
-}
-
-fun numOfDigits(num: Long): Int {
-    var given = num
-    var count = 0
-    while (given != 0L) {
-        given /= 10L
-        ++count
-    }
-    return count
+    return digits
 }

@@ -13,3 +13,4 @@
 |  9 | 13/01/21 | LeetCode   | 88 Merge Sorted Array                  | todo |
 | 10 | 13/01/21 | LeetCode   | 118 Pascal Triangle                    |      |
 | 11 | 14/01/21 | LeetCode   | 26 remove duplicates from sorted array |      |
+| 12 | 15/01/21 | LeetCode   | 66 Plus One                            |      |
