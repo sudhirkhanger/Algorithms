@@ -1,16 +1,20 @@
-# Data Structures and Algorithms problems
+* Data Structures and Algorithms problems
 
-| no | date     | source     | name                                   | note |
-|----+----------+------------+----------------------------------------+------|
-|  1 | 05/01/21 | LeetCode   | 283 move zeros                         |      |
-|  2 | 06/01/21 | LeetCode   | 268 missing number                     |      |
-|  3 | 08/01/21 | LeetCode   | 217 contains duplicate                 |      |
-|  4 | 09/01/21 | LeetCode   | 169 majority element                   |      |
-|  5 | 10/01/21 | LeetCode   | 121 best time to buy and sell stock    |      |
-|  6 | 10/01/21 | Hackerrank | FizzBuzz                               |      |
-|  7 | 10/01/21 | Hackerrank | GetMaxValue                            |      |
-|  8 | 10/01/21 | Hackerrank | Divisiblity of strings                 |      |
-|  9 | 13/01/21 | LeetCode   | 88 Merge Sorted Array                  | todo |
-| 10 | 13/01/21 | LeetCode   | 118 Pascal Triangle                    |      |
-| 11 | 14/01/21 | LeetCode   | 26 remove duplicates from sorted array |      |
-| 12 | 15/01/21 | LeetCode   | 66 Plus One                            |      |
+| no | date     | source     | name                                       | note |
+|----+----------+------------+--------------------------------------------+------|
+|  1 | 05/01/21 | LeetCode   | 283 move zeros                             |      |
+|  2 | 06/01/21 | LeetCode   | 268 missing number                         |      |
+|  3 | 08/01/21 | LeetCode   | 217 contains duplicate                     |      |
+|  4 | 09/01/21 | LeetCode   | 169 majority element                       |      |
+|  5 | 10/01/21 | LeetCode   | 121 best time to buy and sell stock        |      |
+|  6 | 10/01/21 | Hackerrank | FizzBuzz                                   |      |
+|  7 | 10/01/21 | Hackerrank | GetMaxValue                                |      |
+|  8 | 10/01/21 | Hackerrank | Divisiblity of strings                     |      |
+|  9 | 13/01/21 | LeetCode   | 88 Merge Sorted Array                      | todo |
+| 10 | 13/01/21 | LeetCode   | 118 Pascal Triangle                        |      |
+| 11 | 14/01/21 | LeetCode   | 26 remove duplicates from sorted array     |      |
+| 12 | 15/01/21 | LeetCode   | 66 Plus One                                |      |
+| 13 | 16/01/21 | LeetCode   | 88 Maximum Subarray                        | todo |
+| 14 | 16/01/21 | LeetCode   | 122 best time to buy and sell stock part 2 | todo |
+| 15 | 16/01/21 | LeetCode   | 21 Merge Two Sorted Lists                  | todo |
+| 16 |          |            |                                            |      |
