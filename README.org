@@ -18,3 +18,5 @@
 | 14 | 16/01/21 | LeetCode   | 122 best time to buy and sell stock part 2 | todo |
 | 15 | 16/01/21 | LeetCode   | 21 Merge Two Sorted Lists                  | todo |
 | 16 | 23/01/21 | LeetCode   | 141. Linked List Cycle                     | todo |
+| 17 | 25/01/21 | LeetCode   | 160. Intersection of Two Linked Lists      | todo |
+|    |          |            |                                            |      |
