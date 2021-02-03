@@ -22,4 +22,5 @@
 | 18 | 27/01/21 | LeetCode   | 206. Reverse Linked List                   | todo |
 | 19 | 01/02/21 | LeetCode   | 234. Palindrome Linked List                | todo |
 | 20 | 02/02/21 | LeetCode   | 237. Delete Node in a Linked List          | todo |
+| 21 | 03/02/21 | LeetCode   | 13. Roman to Integer                       |      |
 |    |          |            |                                            |      |
