@@ -26,4 +26,6 @@
 | 22 | 04/02/21 | LeetCode   | 14. Longest Common Prefix                  | study binary search solution |
 | 23 | 12/02/21 | LeetCode   | 20. Valid Parentheses                      |                              |
 | 24 | 13/02/21 | LeetCode   | 28. Implement strStr()                     |                              |
+| 25 | 15/02/21 | LeetCode   | 125. Valid Palindrome                      | todo                         |
+|    |          |            |                                            |                              |
 
