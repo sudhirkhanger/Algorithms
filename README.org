@@ -1,33 +1,40 @@
 * Data Structures and Algorithms problems
 
-| no | date     | source     | name                                       | note                         |
-|----+----------+------------+--------------------------------------------+------------------------------|
-|  1 | 05/01/21 | LeetCode   | 283 move zeros                             |                              |
-|  2 | 06/01/21 | LeetCode   | 268 missing number                         |                              |
-|  3 | 08/01/21 | LeetCode   | 217 contains duplicate                     |                              |
-|  4 | 09/01/21 | LeetCode   | 169 majority element                       |                              |
-|  5 | 10/01/21 | LeetCode   | 121 best time to buy and sell stock        |                              |
-|  6 | 10/01/21 | Hackerrank | FizzBuzz                                   |                              |
-|  7 | 10/01/21 | Hackerrank | GetMaxValue                                |                              |
-|  8 | 10/01/21 | Hackerrank | Divisiblity of strings                     |                              |
-|  9 | 13/01/21 | LeetCode   | 88 Merge Sorted Array                      | todo                         |
-| 10 | 13/01/21 | LeetCode   | 118 Pascal Triangle                        |                              |
-| 11 | 14/01/21 | LeetCode   | 26 remove duplicates from sorted array     |                              |
-| 12 | 15/01/21 | LeetCode   | 66 Plus One                                |                              |
-| 13 | 16/01/21 | LeetCode   | 88 Maximum Subarray                        | todo                         |
-| 14 | 16/01/21 | LeetCode   | 122 best time to buy and sell stock part 2 | todo                         |
-| 15 | 16/01/21 | LeetCode   | 21 Merge Two Sorted Lists                  | todo                         |
-| 16 | 23/01/21 | LeetCode   | 141. Linked List Cycle                     | todo                         |
-| 17 | 25/01/21 | LeetCode   | 160. Intersection of Two Linked Lists      | todo                         |
-| 18 | 27/01/21 | LeetCode   | 206. Reverse Linked List                   | todo                         |
-| 19 | 01/02/21 | LeetCode   | 234. Palindrome Linked List                | todo                         |
-| 20 | 02/02/21 | LeetCode   | 237. Delete Node in a Linked List          | todo                         |
-| 21 | 03/02/21 | LeetCode   | 13. Roman to Integer                       |                              |
-| 22 | 04/02/21 | LeetCode   | 14. Longest Common Prefix                  | study binary search solution |
-| 23 | 12/02/21 | LeetCode   | 20. Valid Parentheses                      |                              |
-| 24 | 13/02/21 | LeetCode   | 28. Implement strStr()                     |                              |
-| 25 | 15/02/21 | LeetCode   | 125. Valid Palindrome                      | todo                         |
-| 26 | 16/02/21 | LeetCode   | 344. Reverse String                        |                              |
-| 27 | 17/02/21 | LeetCode   | 387. First Unique Character in a String    |                              |
-|    |          |            |                                            |                              |
+** January
 
+| no | monthly | date     | source     | name                                       | note |
+|----+---------+----------+------------+--------------------------------------------+------|
+|  1 |       1 | 05/01/21 | LeetCode   | 283 move zeros                             |      |
+|  2 |       2 | 06/01/21 | LeetCode   | 268 missing number                         |      |
+|  3 |       3 | 08/01/21 | LeetCode   | 217 contains duplicate                     |      |
+|  4 |       4 | 09/01/21 | LeetCode   | 169 majority element                       |      |
+|  5 |       5 | 10/01/21 | LeetCode   | 121 best time to buy and sell stock        |      |
+|  6 |       6 | 10/01/21 | Hackerrank | FizzBuzz                                   |      |
+|  7 |       7 | 10/01/21 | Hackerrank | GetMaxValue                                |      |
+|  8 |       8 | 10/01/21 | Hackerrank | Divisiblity of strings                     |      |
+|  9 |       9 | 13/01/21 | LeetCode   | 88 Merge Sorted Array                      | todo |
+| 10 |      10 | 13/01/21 | LeetCode   | 118 Pascal Triangle                        |      |
+| 11 |      11 | 14/01/21 | LeetCode   | 26 remove duplicates from sorted array     |      |
+| 12 |      12 | 15/01/21 | LeetCode   | 66 Plus One                                |      |
+| 13 |      13 | 16/01/21 | LeetCode   | 88 Maximum Subarray                        | todo |
+| 14 |      14 | 16/01/21 | LeetCode   | 122 best time to buy and sell stock part 2 | todo |
+| 15 |      15 | 16/01/21 | LeetCode   | 21 Merge Two Sorted Lists                  | todo |
+| 16 |      16 | 23/01/21 | LeetCode   | 141. Linked List Cycle                     | todo |
+| 17 |      17 | 25/01/21 | LeetCode   | 160. Intersection of Two Linked Lists      | todo |
+| 18 |      18 | 27/01/21 | LeetCode   | 206. Reverse Linked List                   | todo |
+
+** February
+
+| no | monthly | date     | source   | name                                    | note                         |
+|----+---------+----------+----------+-----------------------------------------+------------------------------|
+| 19 |       1 | 01/02/21 | LeetCode | 234. Palindrome Linked List             | todo                         |
+| 20 |       2 | 02/02/21 | LeetCode | 237. Delete Node in a Linked List       | todo                         |
+| 21 |       3 | 03/02/21 | LeetCode | 13. Roman to Integer                    |                              |
+| 22 |       4 | 04/02/21 | LeetCode | 14. Longest Common Prefix               | study binary search solution |
+| 23 |       5 | 12/02/21 | LeetCode | 20. Valid Parentheses                   |                              |
+| 24 |       6 | 13/02/21 | LeetCode | 28. Implement strStr()                  |                              |
+| 25 |       7 | 15/02/21 | LeetCode | 125. Valid Palindrome                   | todo                         |
+| 26 |       8 | 16/02/21 | LeetCode | 344. Reverse String                     |                              |
+| 27 |       9 | 17/02/21 | LeetCode | 387. First Unique Character in a String |                              |
+|    |      10 | 22/02/21 | LeetCode | Remove Duplicates from Sorted Array     | redo                         |
+|    |         |          |          |                                         |                              |
