@@ -38,4 +38,4 @@
 | 27 |       9 | 17/02/21 | LeetCode | 387. First Unique Character in a String |                              |
 |    |      10 | 22/02/21 | LeetCode | 26. Remove Duplicates from Sorted Array | redone                       |
 |    |      11 | 23/02/21 | LeetCode | 122. Best Time to Buy and Sell Stock II |                              |
-|    |         |          |          |                                         |                              |
+| 28 |      12 | 24/02/21 | LeetCode | 189. Rotate Array                       |                              |
