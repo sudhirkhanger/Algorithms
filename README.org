@@ -39,3 +39,12 @@
 |    |      10 | 22/02/21 | LeetCode | 26. Remove Duplicates from Sorted Array | redone                       |
 |    |      11 | 23/02/21 | LeetCode | 122. Best Time to Buy and Sell Stock II |                              |
 | 28 |      12 | 24/02/21 | LeetCode | 189. Rotate Array                       |                              |
+
+** March
+
+| Yearly # | Monthly # | Date             | Source   | Title                              | Note |
+|----------+-----------+------------------+----------+------------------------------------+------|
+|       29 |         1 | <2021-03-08 Mon> | LeetCode | 350. Intersection of Two Arrays II |      |
+|       30 |         2 | <2021-03-08 Mon> | LeetCode | 69. Sqrt(x)                        |      |
+|          |           |                  |          |                                    |      |
+
