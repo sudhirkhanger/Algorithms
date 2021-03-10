@@ -49,5 +49,6 @@
 |       31 |         3 | <2021-03-01 Mon> | LeetCode | 278. First bad version             | todo |
 |       32 |         4 | <2021-03-10 Wed> | LeetCode | 367. Valid Perfect Square          |      |
 |       33 |         5 | <2021-03-10 Wed> | LeetCode | 374. Guess Number Higher or Lower  |      |
+|       34 |         6 | <2021-03-10 Wed> | LeetCode | 392. Is Subsequence                |      |
 |          |           |                  |          |                                    |      |
 

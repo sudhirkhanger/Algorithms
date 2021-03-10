@@ -6,12 +6,12 @@ fun main() {
     // 0: The number I picked is equal to your guess (i.e. pick == num).
 }
 
-override fun guessNumber(n:Int):Int {
+fun guessNumber(n:Int):Int {
     var start = 1
     var end = n
     while (start <= end) {
         val mid = start + (end - start) / 2
-        val guess = guess(mid)
+        val guess = 1 // guess(mid) via API
         if (guess == 0) return mid
         if (guess == 1) start = mid + 1
         else end = mid - 1
