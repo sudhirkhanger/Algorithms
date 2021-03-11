@@ -50,5 +50,7 @@
 |       32 |         4 | <2021-03-10 Wed> | LeetCode | 367. Valid Perfect Square          |      |
 |       33 |         5 | <2021-03-10 Wed> | LeetCode | 374. Guess Number Higher or Lower  |      |
 |       34 |         6 | <2021-03-10 Wed> | LeetCode | 392. Is Subsequence                |      |
+|       35 |         7 | <2021-03-11 Thu> | LeetCode | 704. Binary Search                 |      |
+|       36 |         8 | <2021-03-11 Thu> | LeetCode | 441. Arranging Coins               | todo |
 |          |           |                  |          |                                    |      |
 
