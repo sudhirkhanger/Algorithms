@@ -54,5 +54,6 @@
 |       36 |         8 | <2021-03-11 Thu> | LeetCode | 441. Arranging Coins                          | todo |
 |       37 |         9 | <2021-03-12 Fri> | LeetCode | 744. Find Smallest Letter Greater Than Target |      |
 |       38 |        10 | <2021-03-13 Sat> | LeetCode | 852. Peak Index in a Mountain Array           |      |
+|       39 |        11 | <2021-03-15 Mon> | LeetCode | 1337. The K Weakest Rows in a Matrix          | todo |
 |          |           |                  |          |                                               |      |
 
