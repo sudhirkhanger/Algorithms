@@ -42,18 +42,18 @@
 
 ** March
 
-| Yearly # | Monthly # | Date             | Source   | Title                                         | Note |
-|----------+-----------+------------------+----------+-----------------------------------------------+------|
-|       29 |         1 | <2021-03-08 Mon> | LeetCode | 350. Intersection of Two Arrays II            |      |
-|       30 |         2 | <2021-03-08 Mon> | LeetCode | 69. Sqrt(x)                                   |      |
-|       31 |         3 | <2021-03-01 Mon> | LeetCode | 278. First bad version                        | todo |
-|       32 |         4 | <2021-03-10 Wed> | LeetCode | 367. Valid Perfect Square                     |      |
-|       33 |         5 | <2021-03-10 Wed> | LeetCode | 374. Guess Number Higher or Lower             |      |
-|       34 |         6 | <2021-03-10 Wed> | LeetCode | 392. Is Subsequence                           |      |
-|       35 |         7 | <2021-03-11 Thu> | LeetCode | 704. Binary Search                            |      |
-|       36 |         8 | <2021-03-11 Thu> | LeetCode | 441. Arranging Coins                          | todo |
-|       37 |         9 | <2021-03-12 Fri> | LeetCode | 744. Find Smallest Letter Greater Than Target |      |
-|       38 |        10 | <2021-03-13 Sat> | LeetCode | 852. Peak Index in a Mountain Array           |      |
-|       39 |        11 | <2021-03-15 Mon> | LeetCode | 1337. The K Weakest Rows in a Matrix          | todo |
-|          |           |                  |          |                                               |      |
+| Yearly # | Monthly # | Date             | Source   | Title                                           | Note |
+|----------+-----------+------------------+----------+-------------------------------------------------+------|
+|       29 |         1 | <2021-03-08 Mon> | LeetCode | 350. Intersection of Two Arrays II              |      |
+|       30 |         2 | <2021-03-08 Mon> | LeetCode | 69. Sqrt(x)                                     |      |
+|       31 |         3 | <2021-03-01 Mon> | LeetCode | 278. First bad version                          | todo |
+|       32 |         4 | <2021-03-10 Wed> | LeetCode | 367. Valid Perfect Square                       |      |
+|       33 |         5 | <2021-03-10 Wed> | LeetCode | 374. Guess Number Higher or Lower               |      |
+|       34 |         6 | <2021-03-10 Wed> | LeetCode | 392. Is Subsequence                             |      |
+|       35 |         7 | <2021-03-11 Thu> | LeetCode | 704. Binary Search                              |      |
+|       36 |         8 | <2021-03-11 Thu> | LeetCode | 441. Arranging Coins                            | todo |
+|       37 |         9 | <2021-03-12 Fri> | LeetCode | 744. Find Smallest Letter Greater Than Target   |      |
+|       38 |        10 | <2021-03-13 Sat> | LeetCode | 852. Peak Index in a Mountain Array             |      |
+|       39 |        11 | <2021-03-15 Mon> | LeetCode | 1337. The K Weakest Rows in a Matrix            | todo |
+|       40 |        12 | <2021-03-16 Tue> | LeetCode | 1351. Count Negative Numbers in a Sorted Matrix |      |
 
