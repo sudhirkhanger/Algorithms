@@ -56,4 +56,6 @@
 |       38 |        10 | <2021-03-13 Sat> | LeetCode | 852. Peak Index in a Mountain Array             |      |
 |       39 |        11 | <2021-03-15 Mon> | LeetCode | 1337. The K Weakest Rows in a Matrix            | todo |
 |       40 |        12 | <2021-03-16 Tue> | LeetCode | 1351. Count Negative Numbers in a Sorted Matrix |      |
+|       41 |        13 | <2021-03-17 Wed> | LeetCode | 36. Valid Sudoku                                |      |
+|          |           |                  |          |                                                 |      |
 
