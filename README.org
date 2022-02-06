@@ -1,6 +1,9 @@
+
 * Data Structures and Algorithms problems
 
-** January
+** 2021
+
+*** January
 
 | no | monthly | date     | source     | name                                       | note |
 |----+---------+----------+------------+--------------------------------------------+------|
@@ -23,7 +26,7 @@
 | 17 |      17 | 25/01/21 | LeetCode   | 160. Intersection of Two Linked Lists      | todo |
 | 18 |      18 | 27/01/21 | LeetCode   | 206. Reverse Linked List                   | todo |
 
-** February
+*** February
 
 | no | monthly | date     | source   | name                                    | note                         |
 |----+---------+----------+----------+-----------------------------------------+------------------------------|
@@ -40,7 +43,7 @@
 |    |      11 | 23/02/21 | LeetCode | 122. Best Time to Buy and Sell Stock II |                              |
 | 28 |      12 | 24/02/21 | LeetCode | 189. Rotate Array                       |                              |
 
-** March
+*** March
 
 | Yearly # | Monthly # | Date             | Source   | Title                                           | Note |
 |----------+-----------+------------------+----------+-------------------------------------------------+------|
@@ -59,3 +62,7 @@
 |       41 |        13 | <2021-03-17 Wed> | LeetCode | 36. Valid Sudoku                                |      |
 |          |           |                  |          |                                                 |      |
 
+
+** 2022
+
+*** February
