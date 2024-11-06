@@ -5,7 +5,7 @@ class Solution {
         nums.forEach { num ->
             val count = dupMap[num]
             if (count != null) {
-                result = true
+                return true
             } else {
                 dupMap[num] = 1
             }
