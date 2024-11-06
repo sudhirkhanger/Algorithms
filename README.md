@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0118-pascals-triangle](https://github.com/sudhirkhanger/Algorithms/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -31,5 +33,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
