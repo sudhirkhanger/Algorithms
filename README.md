@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudhirkhanger/Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudhirkhanger/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/sudhirkhanger/Algorithms/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sudhirkhanger/Algorithms/tree/master/0118-pascals-triangle) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudhirkhanger/Algorithms/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudhirkhanger/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0268-missing-number) |
