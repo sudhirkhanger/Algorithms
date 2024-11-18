@@ -1,13 +1,15 @@
 class Solution {
     fun fizzBuzz(n: Int): List<String> {
-        return List(n) { index -> 
-        val num = index + 1
-        when {
-            num % 3 == 0 && num % 5 == 0 -> "FizzBuzz"
-            num % 3 == 0 -> "Fizz"
-            num % 5 == 0 -> "Buzz"
-            else -> "$num"
+        val list = mutableListOf<String>()
+        for(i in 1..n) {
+            val answer = when {
+                i.mod(3) == 0 && i.mod(5) == 0 -> "FizzBuzz"
+                i.mod(3) == 0 -> "Fizz"
+                i.mod(5) == 0 -> "Buzz"
+                else -> "$i"
+            }
+            list.add(answer)
         }
-        }
+        return list
     }
 }
