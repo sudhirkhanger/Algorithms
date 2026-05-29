@@ -1,15 +1,10 @@
 class Solution {
     fun containsDuplicate(nums: IntArray): Boolean {
-        val dupMap = hashMapOf<Int, Int>()
-        var result = false
-        nums.forEach { num ->
-            val count = dupMap[num]
-            if (count != null) {
-                return true
-            } else {
-                dupMap[num] = 1
+        for (i in nums.indices) {
+            for (j in (i+1) until nums.size) {
+                if (nums[i] == nums[j]) return true
             }
         }
-        return result
+    return false
     }
 }
