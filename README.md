@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/sudhirkhanger/Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudhirkhanger/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/sudhirkhanger/Algorithms/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sudhirkhanger/Algorithms/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sudhirkhanger/Algorithms/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhirkhanger/Algorithms/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sudhirkhanger/Algorithms/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudhirkhanger/Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sudhirkhanger/Algorithms/tree/master/0242-valid-anagram) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sudhirkhanger/Algorithms/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudhirkhanger/Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sudhirkhanger/Algorithms/tree/master/0242-valid-anagram) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sudhirkhanger/Algorithms/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sudhirkhanger/Algorithms/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sudhirkhanger/Algorithms/tree/master/0412-fizz-buzz) |
 ## Simulation
