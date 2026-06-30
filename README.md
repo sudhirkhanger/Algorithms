@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0066-plus-one](https://github.com/sudhirkhanger/Algorithms/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sudhirkhanger/Algorithms/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkhanger/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sudhirkhanger/Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudhirkhanger/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sudhirkhanger/Algorithms/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkhanger/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sudhirkhanger/Algorithms/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sudhirkhanger/Algorithms/tree/master/0412-fizz-buzz) |
 ## Binary Search
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sudhirkhanger/Algorithms/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkhanger/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
