@@ -1,11 +1,16 @@
 class Solution {
-    fun reverseString(s: CharArray): Unit {
-    var temp: Char
-    for (i in 0..((s.size / 2)-1)) {
-       temp = s[i]
-       val lastPos = (s.size - 1) - i
-       s[i] = s[lastPos]
-       s[lastPos] = temp
-    }
+    fun reverseString(s: CharArray) {
+        var l = 0
+        var r = s.size - 1
+        var temp: Char
+
+        while (l <= r) {
+	        temp = s[r]
+	        s[r] = s[l]
+	        s[l] = temp
+            l++
+            r--
+        }
+        println(s)
     }
 }
